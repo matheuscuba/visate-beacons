@@ -1,0 +1,17 @@
+{
+  "name": "VisateBeacons",
+  "displayName": "VisateBeacons",
+  "expo": {
+    "name": "VisateBeacons",
+    "slug": "VisateBeacons",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
